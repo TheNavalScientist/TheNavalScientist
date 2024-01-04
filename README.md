@@ -32,11 +32,11 @@ Chart my academic path through conference presentations and published research, 
 
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [https://www.linkedin.com/in/davidodutola/]
+- **LinkedIn**: https://www.linkedin.com/in/davidodutola/
+   
+- **Email**: davidodutola@gmail.com
   
-- **Email**: [davidodutola@gmail.com]
-  
-- **GitHub**: [Your GitHub URL]
+- **GitHub**: https://github.com/TheNavalScientist/
 
 Let's collaborate and unlock the secrets of the ocean for a sustainable future!
 
